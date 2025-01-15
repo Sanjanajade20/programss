@@ -1,0 +1,5 @@
+bytes=1024*1024*1024
+KB=bytes/1024
+MB=KB/1024
+GB=MB/1024
+print(KB,MB,GB)
